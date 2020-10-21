@@ -26,11 +26,14 @@ public class Main {
             teclado.nextLine();
             nombre_plan = teclado.nextLine();
             largo_string = nombre_plan.length();
-            if (largo_string < 11) {
+           
+            if (largo_string <= 9) {
                 while (!rep) {
                     System.out.println("Ingrese un nombre del plan mayor a 10 caracteres");
-                    nombre_plan = teclado.next();
-                    if (nombre_plan.length() > 11) {
+                     nombre_plan = teclado.nextLine();
+                     largo_string = nombre_plan.length();
+                     
+                    if (largo_string >= 10) {
                         rep = true;
                     }
                 }
@@ -52,8 +55,8 @@ public class Main {
             lista_planes.add(plan);
             i++;
         }
-        System.out.println("Ingreso de precios exitoso!");
-        System.out.println("");
+        System.out.println("*****************************");
+        System.out.println("Ingreso de planes exitoso!");
         System.out.println("*****************************");
     }
     
