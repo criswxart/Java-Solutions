@@ -27,30 +27,31 @@ Santiago, 2020
 
 
 
+[A19_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%2019.pdf
+[AF19_EF]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%20Formativa%2019.pdf
+[SA19_E1]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2019%20Ejercicios/Actividad19_Ejercicio1/src/actividad19_ejercicio1
+[SA19_EF1]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2019%20Ejercicios/Actividad19_Formativa/src/actividad19_formativa
+[SA19_EDC]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%2019_Ejercicio1%20Diagrama%20de%20clases.pdf
 
-
-
-
-
-|  N°  |  Actividades        | Enunciado              | Solución Java                                                             |
-| :---:| :---------------:   | :--------------------: | :-------------:                                                           |
-| #1   | Actividad # 10      | [Enunciado 10][ E_10]  | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
-| #2   | Actividad # 11      |                        |                                                                           |
-| #3   | Actividad # 12      |                        |                                                                           |
-| #4   | Actividad # 13      |                        |                                                                           |
-| #5   | Actividad # 14      |                        |                                                                           |
-| #6   | Actividad # 15      |                        |                                                                           |
-| #7   | Actividad # 16      |                        |               |
-| #8   | Actividad # 17      |                        |               |
-| #9   | Actividad # 18      |                        |               |
-| #10   | Actividad # 19     |                        |               |
-| #11   | Actividad # 20     |                        |               |
-| #12   | Actividad # 21     |                        |               |
-| #13   | Actividad # 22     |                        |               |
-| #14   | Actividad # 23     |                        |               |
-| #15   | Actividad # 24     |                        |               |
-| #16   | Actividad # 25     |                        |               |
-| #17   | Actividad # 26     |                        |               |
+|  N°  |  Actividades        | Enunciado                                                      | Solución Java                                                             |
+| :---:| :---------------:   | :--------------------:                                         | :-------------:                                                           |
+| #1   | Actividad # 10      | [Enunciado 10][E_10]                                           | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
+| #2   | Actividad # 11      |                                                                |                                                                           |
+| #3   | Actividad # 12      |                                                                |                                                                           |
+| #4   | Actividad # 13      |                                                                |                                                                            |
+| #5   | Actividad # 14      |                                                                |                                                                             |
+| #6   | Actividad # 15      |                                                                |                                                                           |
+| #7   | Actividad # 16      |                                                                |                                                                            |
+| #8   | Actividad # 17      |                                                                |                                                                            |
+| #9   | Actividad # 18      |                                                                |                                                                            |
+| #10   | Actividad # 19     | [Enunciado 19][A19_E1] - [Enunciado Formativo][AF19_EF]        |  [Ejer_1][SA19_E1] - [Ejer_Formativo][SA19_EF1] - [Diagrama de clases][SA19_EDC]|
+| #11   | Actividad # 20     |                                                                |               |
+| #12   | Actividad # 21     |                                                                |               |
+| #13   | Actividad # 22     |                                                                |               |
+| #14   | Actividad # 23     |                                                                |               |
+| #15   | Actividad # 24     |                                                                |               |
+| #16   | Actividad # 25     |                                                                |               |
+| #17   | Actividad # 26     |                                                                |               |
 
 
 ## Temario
