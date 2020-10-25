@@ -18,7 +18,40 @@ adoptamos el modelo [Bootcamp], que ha logrado reescribir las reglas de la indus
 * Egresa de programas que internacionalmente han demostrado un alto nivel de inserción laboral.
 
 ## Ejercicios **resueltos** del curso "_Java Full Stack DUOC_"
-> Santiago, 2020
+Santiago, 2020
+
+[E_10]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Actividad%2010.pdf
+[acti10_ejer1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Ejercicio_01/src/actidad_10/Ejercicio_01.java
+[acti10_ejer2]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Ejercicio_02/src/actividad_10/Ejercicio_02.java
+[acti10_ejer3]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Ejercicio_03/src/actividad_10/Ejercicio_03.java
+
+
+
+
+
+
+
+
+|  N°  |  Actividades        | Enunciado              | Solución Java                                                             |
+| :---:| :---------------:   | :--------------------: | :-------------:                                                           |
+| #1   | Actividad # 10      | [Enunciado 10][ E_10]  | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
+| #2   | Actividad # 11      |                        |                                                                           |
+| #3   | Actividad # 12      |                        |                                                                           |
+| #4   | Actividad # 13      |                        |                                                                           |
+| #5   | Actividad # 14      |                        |                                                                           |
+| #6   | Actividad # 15      |                        |                                                                           |
+| #7   | Actividad # 16      |                        |               |
+| #8   | Actividad # 17      |                        |               |
+| #9   | Actividad # 18      |                        |               |
+| #10   | Actividad # 19     |                        |               |
+| #11   | Actividad # 20     |                        |               |
+| #12   | Actividad # 21     |                        |               |
+| #13   | Actividad # 22     |                        |               |
+| #14   | Actividad # 23     |                        |               |
+| #15   | Actividad # 24     |                        |               |
+| #16   | Actividad # 25     |                        |               |
+| #17   | Actividad # 26     |                        |               |
+
 
 ## Temario
 
