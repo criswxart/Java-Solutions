@@ -31,6 +31,16 @@ Santiago, 2020
 
 
 
+[A17_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2017%20Ejercicios/Actividad%2017_1.pdf
+[A17_E2]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2017%20Ejercicios/Actividad%2017_2.pdf
+[SA17_E1]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2017%20Ejercicios/Ejercicio_actividad17/src/ejercicio_actividad17
+[SA17_E2]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2017%20Ejercicios/Ejercicio2_actividad17/src/ejercicio2_actividad17
+
+[A18_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2018%20Ejercicios/Evaluaci%C3%B3n_02_Grupal_EA2_V01_2020.pdf
+[A18_E2]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2018%20Ejercicios/Evaluaci%C3%B3n_02_Individual_EA2_V01_2020.pdf
+[SA18_E1]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2018%20Ejercicios/JavaApplication21/src/javaapplication21
+[SA18_E2]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2018%20Ejercicios/Actividad18_Ejercicio2/src/actividad18_ejercicio2
+
 [A19_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%2019.pdf
 [AF19_EF]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%20Formativa%2019.pdf
 [SA19_E1]: https://github.com/criswxart/Java-Solutions/tree/master/Actividad%2019%20Ejercicios/Actividad19_Ejercicio1/src/actividad19_ejercicio1
@@ -46,8 +56,8 @@ Santiago, 2020
 | #5   | Actividad # 14      |                                                                |                                                                             |
 | #6   | Actividad # 15      |                                                                |                                                                           |
 | #7   | Actividad # 16      |                                                                |                                                                            |
-| #8   | Actividad # 17      |                                                                |                                                                            |
-| #9   | Actividad # 18      |                                                                |                                                                            |
+| #8   | Actividad # 17      | [Enunciado Actividad 17_1][A17_E1] - [Enunciado Actividad 17_2][A17_E2] | [Ejer_1][SA17_E1] - [Ejer_2][SA17_E2] |
+| #9   | Actividad # 18      | [Evaluación Individual][A18_E2] - [Evaluación Grupal][A18_E1]  |   [Ejer_Individual][SA18_E2] - [Ejer_Grupal][SA18_E1] |
 | #10   | Actividad # 19     | [Enunciado 19][A19_E1] - [Enunciado Formativo][AF19_EF]        |  [Ejer_1][SA19_E1] - [Ejer_Formativo][SA19_EF1] - [Diagrama de clases][SA19_EDC]|
 | #11   | Actividad # 20     |                                                                |               |
 | #12   | Actividad # 21     |                                                                |               |
