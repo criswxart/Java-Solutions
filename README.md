@@ -40,7 +40,7 @@ Santiago, 2020
 |  N°  |  Actividades        | Enunciado                                                      | Solución Java                                                             |
 | :---:| :---------------:   | :--------------------:                                         | :-------------:                                                           |
 | #1   | Actividad # 10      | [Enunciado Actividad 11][E_10]                                 | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
-| #2   | Actividad # 11      | [Enunciado Actividad 12][A11_E]                                | [Ejer_1][S11_E1] - [Ejer_2][S11_E2]] |
+| #2   | Actividad # 11      | [Enunciado Actividad 12][A11_E]                                | [Ejer_1][S11_E1] - [Ejer_2][S11_E2] |
 | #3   | Actividad # 12      |                                                                |                                                                           |
 | #4   | Actividad # 13      |                                                                |                                                                            |
 | #5   | Actividad # 14      |                                                                |                                                                             |
