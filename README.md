@@ -25,6 +25,10 @@ Santiago, 2020
 [acti10_ejer2]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Ejercicio_02/src/actividad_10/Ejercicio_02.java
 [acti10_ejer3]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2010%20Ejercicios/Ejercicio_03/src/actividad_10/Ejercicio_03.java
 
+[S11_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2011%20Ejercicios/Ejercicio_01/src/actividad_11/Ejercicio_01.java
+[A11_E]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2011%20Ejercicios/Actividad%2011.pdf
+[S11_E2]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2011%20Ejercicios/Ejercicio_02/src/ejercicio_02/Ejercicio_02.java
+
 
 
 [A19_E1]: https://github.com/criswxart/Java-Solutions/blob/master/Actividad%2019%20Ejercicios/Actividad%2019.pdf
@@ -35,8 +39,8 @@ Santiago, 2020
 
 |  N°  |  Actividades        | Enunciado                                                      | Solución Java                                                             |
 | :---:| :---------------:   | :--------------------:                                         | :-------------:                                                           |
-| #1   | Actividad # 10      | [Enunciado 10][E_10]                                           | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
-| #2   | Actividad # 11      |                                                                |                                                                           |
+| #1   | Actividad # 10      | [Enunciado Actividad 11][E_10]                                 | [Ejer_1][acti10_ejer1] - [Ejer_2][acti10_ejer2] - [Ejer_3][acti10_ejer3]  |
+| #2   | Actividad # 11      | [Enunciado Actividad 12][A11_E]                                | [Ejer_1][S11_E1] - [Ejer_2][S11_E2]] |
 | #3   | Actividad # 12      |                                                                |                                                                           |
 | #4   | Actividad # 13      |                                                                |                                                                            |
 | #5   | Actividad # 14      |                                                                |                                                                             |
